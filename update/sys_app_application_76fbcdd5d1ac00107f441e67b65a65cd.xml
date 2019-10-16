@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Bright @ CreatorCon </description>
+        <device_type>browser</device_type>
+        <hint>Bright @ CreatorCon </hint>
+        <name/>
+        <order/>
+        <roles>x_snc_bright_app.hello_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:14:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76fbcdd5d1ac00107f441e67b65a65cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BRIGHT APP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BRIGHT APP" source="x_snc_bright_app">98394d55d1ac00107f441e67b65a6561</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BRIGHT APP">98394d55d1ac00107f441e67b65a6561</sys_scope>
+        <sys_update_name>sys_app_application_76fbcdd5d1ac00107f441e67b65a65cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:14:13</sys_updated_on>
+        <title>BRIGHT APP</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
